@@ -6,45 +6,38 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Wanting Li!
+Wanting Li
 ======
 
-I'm a **third-year** undergraduate in Computer Science at the [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/). Recently, I've been conducting research on **sparse attention in LLM inference** and an **experimental study on vector database in RAG** in [SUSTech DBGroup](https://dbgroup.sustech.edu.cn/) under the supervision of [Prof.Bo Tang](https://acm.sustech.edu.cn/btang/).
+I'm a **first-year Ph.D. student** in Computer Science at the **National University of Singapore (NUS)**, advised by [Prof. Wenqi Jiang](https://wenqijiang.github.io/).
 
-I plan to apply for a **PhD** program in **Fall 2026**. I'm currently seeking for a **research internship** in **Spring 2025 or Summer 2025**. 
+Previously, I received my bachelor's degree in Computer Science from the Southern University of Science and Technology (SUSTech). During my undergraduate studies, I worked on vector databases in SUSTech DBGroup, advised by [Prof. Bo Tang](https://acm.sustech.edu.cn/btang/). I was also an undergraduate research intern at Hao AI Lab at the University of California San Diego (UCSD), advised by [Prof. Hao Zhang](https://haozhang.ai/), where I worked on Text-to-SQL.
 
-I am highly enthusiastic about exploring various research domains within the fields of data science and deep learning/machine learning to identify my future research interests. 
-
-Publications
-======
-- Working on improving the memory efficiency and accuracy of sparse attention in LLM inference
-
-    We are proposing a new sparse attention algorithm that reduces memory cost by leveraging the tiered memory architecture and preserves accuracy by effective KV cache compression.
-  
-- Working on an experimental study on vector databases in RAG
-
-    I am conducting experiments on Google’s Natural Questions dataset to explore how recall adjustments and answer shortening impact RAG's performance. 
-
-Company internship
-======
-- Programming Language Development Tools Intern at Digital Infrastructure in Innovation International Digital Economy Academy(2024.1-2024.2)
-  
-
-Awards
-======
-- [2024 SIGMOD Programming Contest World Finalist](http://sigmodcontest2024.eastus.cloudapp.azure.com/dashboard.shtml)
+My research interests lie in semantic query processing and MLSys.
 
 
-Something about me
-======
-- **Academically**
+<h1 id="publications" style="margin-top: 2em;">Publications</h1>
+<div style="line-height: 1.4; margin: 0 0 12px 0;">
+  <div style="margin: 0; padding: 0;">
+    <strong>AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference</strong>
+    <a href="https://doi.org/10.1145/3722212.3724428">[Paper]</a>
+  </div>
+  <div style="margin: 0; padding: 0; color: gray;">
+    Yangshen Deng, Zhengxin You, Long Xiang, Qilong Li, Peiqi Yuan,
+    Zhaoyang Hong, Yitao Zheng,
+    <strong style="color: #333;">Wanting Li</strong>,
+    Runzhong Li, Haotian Liu, Kyriakos Mouratidis, Man Lung Yiu,
+    Huan Li, Qiaomu Shen, Rui Mao, and Bo Tang
+  </div>
+  <div style="margin: 0; padding: 0; color: #555;">
+    <em>Companion of the 2025 International Conference on Management of Data
+    (SIGMOD/PODS '25), 2025.</em>
+  </div>
+</div>
 
-    GPA:3.83/4.0
 
-- **Personality**
 
-    I am self-motivated and responsible, skilled at managing stress and enhancing team cohesion.
-    
-- **Physically**
 
-    I am very passionate about **swimming** and skilled in **breaststroke** and **freestyle**.
+<h1 id="awards" style="margin-top: 2em;">Awards</h1>
+
+- 2024 SIGMOD Programming Contest World Finalist
