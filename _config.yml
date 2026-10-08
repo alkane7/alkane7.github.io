@@ -12,9 +12,9 @@ title                    : "Wanting Li"
 title_separator          : "-"
 name                     : &name "About"
 description              : &description "a first-year PhD student at the National University of Singapore (NUS)"
-url                      : https://alkane7.github.io/WantingLi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alkane7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alkane7/WantingLi.github.io"
+repository               : "alkane7/alkane7.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
