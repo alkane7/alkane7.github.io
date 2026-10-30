@@ -13,7 +13,7 @@ I'm a **first-year Ph.D. student** in Computer Science at the **National Univers
 
 Previously, I received my bachelor's degree in Computer Science from the Southern University of Science and Technology (SUSTech). During my undergraduate studies, I worked on vector databases in SUSTech DBGroup, advised by [Prof. Bo Tang](https://acm.sustech.edu.cn/btang/). I was also an undergraduate research intern at Hao AI Lab at the University of California San Diego (UCSD), advised by [Prof. Hao Zhang](https://haozhang.ai/), where I worked on Text-to-SQL.
 
-My research interests lie in semantic query processing and MLSys.
+My research interests lie in semantic query processing and MLSys. Please feel free to contact me at [wantingli@u.nus.edu](mailto:wantingli@u.nus.edu).
 
 
 <h1 id="publications" style="margin-top: 2em;">Publications</h1>
